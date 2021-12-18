@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @root6873
+- 👋 Hi, I’m Sujan Adhikari.
 - 👀 I’m interested in programming and automation.
 - 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on robotics.
